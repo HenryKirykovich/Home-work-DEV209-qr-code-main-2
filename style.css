@@ -15,10 +15,16 @@ body {
     background-color: hsl(212, 45%, 89%);
     line-height: 1.5;
     font-size: 15px;
+    font-family: "Outfit", serif;
 }
 
 
 /* White: hsl(0, 0%, 100%) Font size (paragraph): 15px*/
+
+p {
+    font-size: 15px;
+    font-family: "Outfit", serif;
+}
 
 .contain {
     margin: 0px;
@@ -47,7 +53,7 @@ body {
 
 .qr_title {
     font-size: 1.2rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: inherit;
     font-weight: bold;
     margin-bottom: 10px;
     font-style: normal;
@@ -59,7 +65,7 @@ body {
 .description {
     font-size: 0.8rem;
     margin-bottom: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: inherit;
     text-align: center;
     width: calc(100% - 30%);
     /* 100% of the image width minus 10% */
