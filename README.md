@@ -5,3 +5,5 @@ wasbuilded a QR code component and style it to match the design inside the /desi
 -Responsive design for mobile & desktop
 - Font & color styling based on the guide
 - No JavaScript needed
+
+check it here  https://henrykirykovich.github.io/Home-work-DEV209-qr-code-main-2/
